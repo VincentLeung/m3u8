@@ -1,0 +1,121 @@
+#EXTM3U
+# 非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)
+# 不分次序排列
+# 有部份直播內容一樣，部份內容沒有字幕
+# 請勿更改以下內容，若導致更改內容或內容損壞，恕不負責
+
+#EXTINF:-1, --- 最後更新: 27/02/2017 ---
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, -----不提供更新-----
+http://youtube.com
+#EXTINF:-1, 若要分享 請註明【TharinTM】或原出處
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1 group-title="樂視",----- 樂視(香港HK/CN)List -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, (可用)樂視電影4K - 1 (粤語/廣東話|普通話/國語 - 繁/簡[殘]中字)
+http://bit.ly/Letv-4K
+#EXTINF:-1, (可用)樂視電影720p (普通話/國語 - 繁/簡[殘]中字)
+http://bit.ly/Letv-720p
+#EXTINF:-1, 樂視電影 - 未知 (粤/廣東話)
+http://bit.ly/canton-letv
+
+#EXTINF:-1 group-title="樂視",----- 樂視(中國大陸CN)List -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, (可用)樂視中國/大陸男歌手
+http://bit.ly/Letv-MB
+#EXTINF:-1, (可用)樂視中國/大陸女歌手
+http://bit.ly/Letv-MG
+
+#EXTINF:-1 group-title="有線",-----有線(HK)List-----Tharin
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, (可用)有線新聞台HD
+http://bit.ly/HKC-News
+
+# 電視直播 - 若要分享 請註明【TharinTM】或原出處
+
+#EXTINF:-1 group-title="電視",----- 香港(HK)電視Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (可用)香港電視 - 31台
+http://bit.ly/RTHK31
+#EXTINF:-1, (可用)香港電視 - 32台
+http://bit.ly/RTHK32
+#EXTINF:-1, (可用)香港電視 - TVB翡翠台 (信號不穩定)
+http://bit.ly/CCTVBCN
+#EXTINF:-1, (可用)香港電視 - TVB娛樂新聞台
+http://bit.ly/TVB-Fun
+
+#EXTINF:-1 group-title="電視",----- 澳門(MO)電視Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (可用)澳門Macau
+http://bit.ly/Macau-TV
+#EXTINF:-1, (可用)澳視澳門
+http://bit.ly/tdm-mo
+#EXTINF:-1, (可用)澳門蓮花
+http://bit.ly/Mo-F
+
+#EXTINF:-1 group-title="電視",-----台灣(TW)電視Live-----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (可用)民視新聞台
+http://bit.ly/TW-News
+
+#EXTINF:-1 group-title="電視",----- 韓國(Kor)電視Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (可用)Kor音樂
+http://bit.ly/Kor-Music
+
+#EXTINF:-1 group-title="電視",----- 鳳凰(CN)電視Live -----
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, (可用)鳳凰香港
+http://bit.ly/CNH-FK3
+#EXTINF:-1, (可用)鳳凰資訊 (HD)
+http://bit.ly/CN-FK2
+#EXTINF:-1, (可用)鳳凰 (HD)
+http://bit.ly/CN-FK1
+
+#EXTINF:-1, 必須插上 Lan線(有效網絡) 才能播放
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, 如黑屏重新點擊一次 或 重新開啟
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+#EXTINF:-1, 部份內容可能會無法連接直播提供商
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, 非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)
+http://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+
+#EXTINF:-1, ---其他公告內容　27/02/2017---
+http://youtube.com
+#EXTINF:-1, PayPal Donate(贊助)
+https://www.paypal.me/TharinM
+#EXTINF:-1, tharin.tm@outlook.com (Friend Payment Only)
+tharin.tm@outlook.com
+#EXTINF:-1, Donate HKD $5~10以上 (只受朋友方式發出款項)
+tharin.tm@outlook.com
+#EXTINF:-1, 以朋友方式發出款項(贊助)
+tharin.tm@outlook.com
+#EXTINF:-1, 在Donate說明中輸入【Donate: Kodi IPTV & Yourname】
+tharin.tm@outlook.com
+#EXTINF:-1, 贊助後使用Hangouts聯絡
+http://youtube.com
+
+#EXTINF:-1, ※※※※※※※※※※※※※※※
+http://youtube.com
+#EXTINF:-1, 該文件伺服器是【免費】，在某天URL連結會失效
+http://youtube.com
+#EXTINF:-1, 目前免費伺服器：英國
+http://youtube.com
+#EXTINF:-1, 可能因網絡關係，部份地區無法使用該檔案
+http://youtube.com
+#EXTINF:-1, -※※※※※※※※※※※※※※※-
+http://youtube.com
+
+# 由 Tharin 獨自編制及排列，有關以上來源：Google Search
+# 非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)
+# 若要分享 請註明【TharinTM】或原出處
+# 出處: Tharin Youtube Channel : https://www.youtube.com/channel/UCe9ZiPZx-vSlzZ8a7eq5jBg
+# 歡迎訂閱 Tharin Youtube Channel，此外按下訂閱【右面的提示鐘】
