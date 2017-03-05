@@ -25,22 +25,18 @@ http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch001.stream_360p/chunklist.m3
 
 #EXTINF:-1,TV2
 http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
-
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
 #EXTINF:-1,TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8
-
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
 #EXTINF:-1,NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
-
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
 #EXTINF:-1,8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
-
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:-1,TV9
@@ -222,7 +218,6 @@ http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
 
 #EXTINF:-1,Kirin fashion
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
-
 
 #EXTM3U
 # 非商業性-相同方式分享 4.0 國際 (CC BY-NC-SA 4.0)
